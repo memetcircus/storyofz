@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.05,
+              1.3
+            ],
+            [
+              -58.05,
+              1.35
+            ],
+            [
+              -58.0,
+              1.35
+            ],
+            [
+              -58.0,
+              1.3
+            ],
+            [
+              -58.05,
+              1.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GEDI_Footprint_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.95,
+              1.15
+            ],
+            [
+              -57.95,
+              1.2
+            ],
+            [
+              -57.9,
+              1.2
+            ],
+            [
+              -57.9,
+              1.15
+            ],
+            [
+              -57.95,
+              1.15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GEDI_Footprint_2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.85,
+              1.0
+            ],
+            [
+              -57.85,
+              1.05
+            ],
+            [
+              -57.8,
+              1.05
+            ],
+            [
+              -57.8,
+              1.0
+            ],
+            [
+              -57.85,
+              1.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GEDI_Footprint_3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.15,
+              1.45
+            ],
+            [
+              -58.15,
+              1.5
+            ],
+            [
+              -58.1,
+              1.5
+            ],
+            [
+              -58.1,
+              1.45
+            ],
+            [
+              -58.15,
+              1.45
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GEDI_Footprint_4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.1,
+              1.35
+            ],
+            [
+              -58.1,
+              1.4
+            ],
+            [
+              -58.05,
+              1.4
+            ],
+            [
+              -58.05,
+              1.35
+            ],
+            [
+              -58.1,
+              1.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GEDI_Footprint_5"
+      }
+    }
+  ]
+}
